@@ -1,0 +1,3688 @@
+{
+  "callLogs": [],
+  "contacts": [],
+  "dictionary": [],
+  "messages": [
+    {
+      "address": "21093",
+      "body": "All parties have completed \"COMPLETE_NBPACKET_65600965386....\"! Download document from: https://s.docusign.net/1XX2q0XPhKBiPnCL-7-PXnm",
+      "date": "1647020234270",
+      "dateSend": "1647020233000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "32665",
+      "body": "Confirmed! To edit SMS preferences go to m.facebook.com/settings. To turn off SMS for your Facebook account on this mobile number reply stop. Reply help for ...",
+      "date": "1646858347194",
+      "dateSend": "1646858348000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "32665",
+      "body": "\u003c#\u003e 671490 is your Facebook confirmation code Laz+nxCarLW",
+      "date": "1646858344760",
+      "dateSend": "1646858344000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13256608128",
+      "body": "Who is this?",
+      "date": "1646508299879",
+      "dateSend": "1646508298000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13256608128",
+      "body": "This is Evelyn",
+      "date": "1646507863518",
+      "dateSend": "1646507863000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13256608128",
+      "body": "Yes",
+      "date": "1646507841214",
+      "dateSend": "1646507839000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "21093",
+      "body": "All parties have completed \"COMPLETE_NBPACKET_65600965386....\"! Download document from: https://s.docusign.net/1tpa20DUJ7ul2Px2syzA2W5",
+      "date": "1646337430894",
+      "dateSend": "1646337428000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+16822979011",
+      "body": "Hi can you stop by the office today? ",
+      "date": "1646089723121",
+      "dateSend": "1646089721000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "For information on your new device, visit http://st-w.co/STSAS111DC",
+      "date": "1645990891085",
+      "dateSend": "1645926307000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Congrats on your new device! Protect it from the unexpected like drops, spills, cracked screens, and more with Mobile Protect. For more details visit: http://st-w.co/3v10MAg",
+      "date": "1645990872758",
+      "dateSend": "1645926307000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+16822979011",
+      "body": "Before 2pm today or no. ",
+      "date": "1645912609110",
+      "dateSend": "1645896258000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+16822979011",
+      "body": "Can you come to the office please ",
+      "date": "1645912604093",
+      "dateSend": "1645896245000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+16822979011",
+      "body": "I need to take pictures of your car again ",
+      "date": "1645912593729",
+      "dateSend": "1645896240000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+16822979011",
+      "body": "Yes! ",
+      "date": "1645912577628",
+      "dateSend": "1645896198000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+16822979011",
+      "body": "Hi Marco Antonio can you call me please this is Stephanie with Fred Loya ",
+      "date": "1645890013249",
+      "dateSend": "1645889011000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "21093",
+      "body": "All parties have completed \"COMPLETE_NBPACKET_65600965386....\"! Download document from: https://s.docusign.net/1BXa1u1ujai3aQR3blfTizV",
+      "date": "1645826176890",
+      "dateSend": "1645826175000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "21093",
+      "body": "Fred from Fred Loya Insuranc... has sent you a DocuSign document \"COMPLETE_NBPACKET_65...\" to view \u0026 sign: https://s.docusign.net/1MnQEYoiQ67fKrD5N6W0Gjl",
+      "date": "1645826020442",
+      "dateSend": "1645826019000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "21093",
+      "body": "Welcome to DocuSign: Msg\u0026data rates may apply. Message frequency varies. Reply HELP for help, STOP to opt-out anytime.",
+      "date": "1645826018629",
+      "dateSend": "1645826017000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "22000",
+      "body": "G-606184 is your Google verification code.",
+      "date": "1645822397208",
+      "dateSend": "1645822395000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "22000",
+      "body": "G-166476 is your Google verification code.",
+      "date": "1645815213973",
+      "dateSend": "1645815211000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "22000",
+      "body": "G-207216 is your Google verification code.",
+      "date": "1645814946827",
+      "dateSend": "1645814945000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "22000",
+      "body": "G-803686 is your Google verification code.",
+      "date": "1645814532464",
+      "dateSend": "1645814530000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "50228",
+      "body": "This Phone is Wi-Fi calling capable! To enable this service, go to your phone\u0027s Settings, connect to Wi-Fi, enable Wi-Fi Calling and follow the instructions",
+      "date": "1645812676203",
+      "dateSend": "1645812670000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Welcome back to Straight Talk! Your number is: 5013665965, your Last Day of Service is 03/27/2022. Save time with SMS services. Reply HELP to learn more.",
+      "date": "1645812520703",
+      "dateSend": "1645812381000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Your request was processed successfully. Allow 5 minutes to complete your reactivation. Then turn your device OFF and back ON.",
+      "date": "1645812327115",
+      "dateSend": "1645812323000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Let\u0027s add your benefits. Please reply with your 15-digit PIN, without any dashes or spaces. To buy a PIN, reply BUY.",
+      "date": "1645812272009",
+      "dateSend": "1645812271000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Ok, lets add your benefits. To add to this phone, reply 1. To add to a different phone, reply 2",
+      "date": "1645812257871",
+      "dateSend": "1645812257000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "STRAIGHT_TALK Msg: Your next airtime purchase at Walmart just got easier! Next time you are at Walmart reply VAIR to experience our new virtual airtime feature. Stop to end",
+      "date": "1644176277750",
+      "dateSend": "1644176273000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "HazelEKnappssssssssssssssssssss@outlook.com",
+      "body": "ow.ly/S0LZ50HLbL9???????\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "date": "1644081294948",
+      "dateSend": "1644067304000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Reply just Y or N.",
+      "date": "1642622443279",
+      "dateSend": "1642622444000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "I\u0027m still learning how to interpret these requests, so it would help me to know...Did my suggestions help you with your inquiry? Y or N",
+      "date": "1642622228472",
+      "dateSend": "1642622229000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "I am unable to send or receive text messages.: http://st-w.co/qMMBExk",
+      "date": "1642622218823",
+      "dateSend": "1642622219000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Hello! I found a couple of articles related to your inquiry:",
+      "date": "1642622212911",
+      "dateSend": "1642622213000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "54676",
+      "body": "We\u0027re sorry, we didn\u0027t recognize that keyword. For assistance, text CHAT to 611611 or HELP for a list of services.",
+      "date": "1642622123207",
+      "dateSend": "1642622123000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "54676",
+      "body": "Straight Talk: Checked your balance lately? Visit My Activity to view your point balance \u0026 see if you qualify for a FREE Service Plan! http://st-w.co/3RM2ODm STOP to End",
+      "date": "1642619696155",
+      "dateSend": "1642619689000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "54676",
+      "body": "Straight Talk: You\u0027ve used all your Hotspot Data. You will have 20GB available on your next refill, or you can refill now at http://st-w.co/LKMlOOG STOP to End",
+      "date": "1642303495745",
+      "dateSend": "1642303494000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Welcome back to Straight Talk! Your number is: 5013665965, your Last Day of Service is 02/10/2022. Save time with SMS services. Reply HELP to learn more.",
+      "date": "1641922413001",
+      "dateSend": "1641922412000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Congrats on redeeming the ST Platinum Unlimited Service Plan. To complete your Mobile Protect Enrollment, click here: http://st-w.co/3vk9vrm",
+      "date": "1641922409716",
+      "dateSend": "1641922408000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Your request was processed successfully. Allow 5 minutes to complete your reactivation. Then turn your device OFF and back ON.",
+      "date": "1641922370429",
+      "dateSend": "1641922366000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Let\u0027s add your benefits. Please reply with your 15-digit PIN, without any dashes or spaces. To buy a PIN, reply BUY.",
+      "date": "1641922145185",
+      "dateSend": "1641922144000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "611611",
+      "body": "Ok, lets add your benefits. To add to this phone, reply 1. To add to a different phone, reply 2",
+      "date": "1641922110364",
+      "dateSend": "1641922109000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "I’m presently now in Brownsville",
+      "date": "1640121204521",
+      "dateSend": "1640121204000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "What are your plans for today",
+      "date": "1640100594135",
+      "dateSend": "1640100591000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Ok",
+      "date": "1640074693638",
+      "dateSend": "1640074692000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Wat u need",
+      "date": "1640073576020",
+      "dateSend": "1640073574000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Okay",
+      "date": "1640068263668",
+      "dateSend": "1640068263000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Ight how long will u be homie if u can do two bills that would be awesome but if not one is good ",
+      "date": "1640068144091",
+      "dateSend": "1640068142000",
+      "read": "1",
+      "service_center": "+19039321440",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Ima go by your crib",
+      "date": "1640068064155",
+      "dateSend": "1640068063000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Okay can u please break this bil for me when u get back ",
+      "date": "1640067499548",
+      "dateSend": "1640067499000",
+      "read": "1",
+      "service_center": "+19039321440",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "I’m currently now in Brownsville tx",
+      "date": "1640067448355",
+      "dateSend": "1640067447000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Okk good",
+      "date": "1640067343407",
+      "dateSend": "1640067343000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Where are you from and located",
+      "date": "1640067087065",
+      "dateSend": "1640067087000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Okk",
+      "date": "1640067079905",
+      "dateSend": "1640067079000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "My ex took away my $11,000 and left me",
+      "date": "1640067002858",
+      "dateSend": "1640067003000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Can u break a bill now ",
+      "date": "1640066957276",
+      "dateSend": "1640066957000",
+      "read": "1",
+      "service_center": "+19039321439",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "I was in crying all night",
+      "date": "1640066955740",
+      "dateSend": "1640066956000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "How has been your night",
+      "date": "1640066946043",
+      "dateSend": "1640066946000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Okk",
+      "date": "1640066941512",
+      "dateSend": "1640066941000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "What\u0027s up playboy what you doing u at homeb",
+      "date": "1640055664618",
+      "dateSend": "1640055662000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Baby",
+      "date": "1639995915372",
+      "dateSend": "1639995915000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "How are you doing",
+      "date": "1639995913629",
+      "dateSend": "1639995913000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Hello",
+      "date": "1639995911753",
+      "dateSend": "1639995910000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "I\u0027m trying but plug only takes small bills 20 and down ",
+      "date": "1639975285966",
+      "dateSend": "1639975285000",
+      "read": "1",
+      "service_center": "+19039321439",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Man what are u talking about",
+      "date": "1639974959742",
+      "dateSend": "1639974959000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Not even for one bill I have ur money right here I just need to break these two bills or at least one ",
+      "date": "1639974830206",
+      "dateSend": "1639974828000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Ok no problem",
+      "date": "1639974589436",
+      "dateSend": "1639973552000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey bro can u break 4 bills no one can break a bill here in anson ",
+      "date": "1639973356308",
+      "dateSend": "1639973354000",
+      "read": "1",
+      "service_center": "+19039321440",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Wanna sleep",
+      "date": "1639973248873",
+      "dateSend": "1639973247000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "How are ya",
+      "date": "1639973020470",
+      "dateSend": "1639968979000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Hi",
+      "date": "1639973019302",
+      "dateSend": "1639968974000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Oh ok hmu",
+      "date": "1639938126855",
+      "dateSend": "1639938124000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Sup",
+      "date": "1639936496541",
+      "dateSend": "1639936494000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Who’s this",
+      "date": "1639935430380",
+      "dateSend": "1639935430000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Yes",
+      "date": "1639935426819",
+      "dateSend": "1639935424000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Hey",
+      "date": "1639871292110",
+      "dateSend": "1639871224000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Let me check ",
+      "date": "1639865969761",
+      "dateSend": "1639865969000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Ok ",
+      "date": "1639864018813",
+      "dateSend": "1639864018000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "This Pooh bear ",
+      "date": "1639863933808",
+      "dateSend": "1639863873000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Say gonna come by n get that 15 ",
+      "date": "1639863930645",
+      "dateSend": "1639863844000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "What  at  11: 24 pm  U  finally   Tried  2  call  📞  I  was  in  bed  Like  normal  people ",
+      "date": "1639838467544",
+      "dateSend": "1639838465000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "What\u0027s up did u call ",
+      "date": "1639805607379",
+      "dateSend": "1639805606000",
+      "read": "1",
+      "service_center": "+19039321439",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Want  2  Make  $50  for  About  2 hrs  ... GOT   some  Light\u0027s  at  A  job  that  fell",
+      "date": "1639750824584",
+      "dateSend": "1639750822000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Marco give me a call ASAP",
+      "date": "1639517575371",
+      "dateSend": "1639517574000",
+      "read": "1",
+      "service_center": "+19039321439",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "I meant if u can help me out i will throw  a ball or a quarter ",
+      "date": "1639514604436",
+      "dateSend": "1639514604000",
+      "read": "1",
+      "service_center": "+19039321439",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "do you think you\u0027ll be able to help me out But the quicker I did thank you I am back if you help me out I\u0027ll throw you a ball or a quarter ",
+      "date": "1639514457404",
+      "dateSend": "1639514457000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Ima swing by your crib",
+      "date": "1639514176612",
+      "dateSend": "1639511893000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey bro can I help me out with two hundred so I can get what I need when I get it I will throw u a ball and pay u back ",
+      "date": "1639510473531",
+      "dateSend": "1639510473000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey Marco call me man please Mann I need your help ",
+      "date": "1639501441465",
+      "dateSend": "1639501439000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey bro I will bring u ur money back I got locked out and looks like I staying in my car tonight ",
+      "date": "1639472443118",
+      "dateSend": "1639472442000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey Marco u said u had work for me I had a job lined up didn\u0027t go cause I went on ur word bro I lost that opportunity with them to work for u man call me please ",
+      "date": "1639434842648",
+      "dateSend": "1639434837000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey Marco give me a holler man it\u0027s an emergency I really need to talk to you call me ASAP bro",
+      "date": "1639430764060",
+      "dateSend": "1639430760000",
+      "read": "1",
+      "service_center": "+19039321440",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Romeo ",
+      "date": "1639420965012",
+      "dateSend": "1639420962000",
+      "read": "1",
+      "service_center": "+19039321440",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey Marco this is Ricky carol friend ",
+      "date": "1639420225261",
+      "dateSend": "1639420223000",
+      "read": "1",
+      "service_center": "+19039321440",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Marco This is Ricky the guy to go to work for you give me a holler back unless it\u0027s cool if I walk to your crib and knock on your gate",
+      "date": "1639415610546",
+      "dateSend": "1639415607000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey Marco May phone was on silent my bad call me back ese ",
+      "date": "1639414303734",
+      "dateSend": "1639414300000",
+      "read": "1",
+      "service_center": "+19039321439",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "You have been unsubscribed.  Reply START to begin receiving reminders again. Standard msg and data rates may apply.",
+      "date": "1639392358823",
+      "dateSend": "1639392358000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Bille has an appointment with Ms. Lindley on 12/13/21 at 2:00 PM. To discuss appt., call 501-940-6135.",
+      "date": "1639341318670",
+      "dateSend": "1639337504000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Bille has an appointment with Ms. Lindley on 12/13/21 at 2:00 PM. To discuss appt., call 501-940-6135.",
+      "date": "1639340029913",
+      "dateSend": "1639337504000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+15015173484",
+      "body": "Sorry I was trying to text Billie Chan, I may have the wrong number ",
+      "date": "1639329764789",
+      "dateSend": "1639329763000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "U awake ",
+      "date": "1639128275322",
+      "dateSend": "1639128275000",
+      "read": "1",
+      "service_center": "+19039321440",
+      "type": "1"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hey Marco it\u0027s me Ricky g the ese that met u at mrs Carolyn\u0027s ",
+      "date": "1639128270271",
+      "dateSend": "1639128268000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Fixing   2  block  U  2",
+      "date": "1638987168551",
+      "dateSend": "1638987167000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Already   texted  U  what it was ",
+      "date": "1638985815979",
+      "dateSend": "1638985816000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Don\u0027t  worry  about  it ",
+      "date": "1638985793049",
+      "dateSend": "1638985792000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "I\u0027m up been up since 2am",
+      "date": "1638985285915",
+      "dateSend": "1638985285000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Guess  Not  mr  roll",
+      "date": "1638977575829",
+      "dateSend": "1638977574000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Want  2  do A real  easy job ?",
+      "date": "1638976422687",
+      "dateSend": "1638976423000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Now  not at 7am",
+      "date": "1638976401950",
+      "dateSend": "1638976402000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Cold",
+      "date": "1638976316270",
+      "dateSend": "1638976316000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Sorry, did not understand response.  Please call the office with appointment concerns.",
+      "date": "1638976236660",
+      "dateSend": "1638976237000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Good  morning.  mr  Roll ",
+      "date": "1638976141790",
+      "dateSend": "1638976140000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Bille has an appointment with Ms. Lindley on 12/8/21 at 3:00 PM. To discuss appt., call 501-940-6135.",
+      "date": "1638896612910",
+      "dateSend": "1638896611000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13252325606",
+      "body": "I\u0027m home",
+      "date": "1638839713130",
+      "dateSend": "1638839711000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Be home in 45 min",
+      "date": "1638835868764",
+      "dateSend": "1638835868000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "And sure ",
+      "date": "1638823960413",
+      "dateSend": "1638823960000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Send me a pic of you I\u0027m still waiting",
+      "date": "1638823958177",
+      "dateSend": "1638823956000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+15014564895",
+      "body": "This automated reminder service cannot accept replies or cancellations. Call your clinician to make appt changes. Reply HELP for options.",
+      "date": "1638803171278",
+      "dateSend": "1638803167000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Morning  ...  Mr   this  the  way  I  roll  !  NOT",
+      "date": "1638803162573",
+      "dateSend": "1638802079000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Damm cold ",
+      "date": "1638762398184",
+      "dateSend": "1638762397000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "WHAT   TIME  ... YOU  WANT  2  SHOW  UP  ??",
+      "date": "1638740655481",
+      "dateSend": "1638740654000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "WHAT  TIME  4  what  ??  You  don\u0027t  need  2  work  !  MR  this how I  roll !  REMEMBER ",
+      "date": "1638726509434",
+      "dateSend": "1638726510000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "U awake  yet  JUST  got  another  late  light  job  ",
+      "date": "1638724260649",
+      "dateSend": "1638724260000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+15014564895",
+      "body": "Reminder: Appt with Mark Andersen, Mon 12/6 @10:30AM CST. Questions? Call 5017812230. To stop reminders reply \"STOP\", otherwise do not respond.",
+      "date": "1638721932166",
+      "dateSend": "1638721931000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Noon",
+      "date": "1638720955293",
+      "dateSend": "1638720954000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "U   want   2   help  me  GOT  2  trim  Scrubs  \u0026  pull out  some of  there plant\u0027s  tomorrow  After  Church  services ",
+      "date": "1638678400085",
+      "dateSend": "1638678399000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Have you left?",
+      "date": "1638673751625",
+      "dateSend": "1638673751000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Oh",
+      "date": "1638673588435",
+      "dateSend": "1638673587000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Where you going?",
+      "date": "1638672033947",
+      "dateSend": "1638672034000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "And sorry I\u0027ve been talking with my kids",
+      "date": "1638672022163",
+      "dateSend": "1638672023000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "No not yet ",
+      "date": "1638672013506",
+      "dateSend": "1638672013000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Oh shit my bad I don\u0027t answer numbers I don\u0027t know lol sorry",
+      "date": "1638658394677",
+      "dateSend": "1638658395000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "When",
+      "date": "1638658364991",
+      "dateSend": "1638658364000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Send me a pic of you now",
+      "date": "1638656579281",
+      "dateSend": "1638656578000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "As for what I\u0027m seeking idk I guess ima just go with the flow ",
+      "date": "1638654411099",
+      "dateSend": "1638654411000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Liked “Imma write santa Claus this weekend  , add you to my want list”",
+      "date": "1638654137404",
+      "dateSend": "1638654137000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Just got off work ",
+      "date": "1638645430604",
+      "dateSend": "1638645431000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Lol",
+      "date": "1638633468727",
+      "dateSend": "1638633468000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258997641",
+      "body": "I\u0027m awake lol been up since 2am",
+      "date": "1638633466564",
+      "dateSend": "1638633466000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13256274249",
+      "body": "Can\u0027t find the address. Maps took me to a house with a Tahoe out front. ",
+      "date": "1638497635534",
+      "dateSend": "1638497633000",
+      "read": "1",
+      "service_center": "+19039321438",
+      "type": "1"
+    },
+    {
+      "address": "+13256274249",
+      "body": "Headed your way",
+      "date": "1638495116856",
+      "dateSend": "1638495114000",
+      "read": "1",
+      "service_center": "+19039321439",
+      "type": "1"
+    },
+    {
+      "address": "+13852764462",
+      "body": "CANCELED Overstock Order: Men\u0027s Tracksuit Set Full Zip Long Sleeve... and 1 other item. Please check your email for further details.STOP to unsubscribe.Msg\u0026data rates may apply.\n",
+      "date": "1638029125164",
+      "dateSend": "1638029122000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13852764462",
+      "body": "CONFIRMED: Nike Men\u0027s Dri-FIT Micro Pique Long Slee... Track at http://o.co/tiny/y8PVEsDDGM. STOP to unsubscribe Msg\u0026data rates may apply.",
+      "date": "1638025673488",
+      "dateSend": "1638025673000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13852764462",
+      "body": "CONFIRMED: Nike Men\u0027s Athletic Wear Embroidered Swo... and 1 other item. Track at http://o.co/tiny/5r71BueguO STOP to unsubscribe Msg\u0026data rates may apply.",
+      "date": "1638025672612",
+      "dateSend": "1638025672000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13852764462",
+      "body": "CANCELED Overstock Order: Nike Men\u0027s Dri-FIT Micro Pique Long Slee.... Please check your email for further details. STOP to unsubscribe. Msg\u0026data rates may apply\n",
+      "date": "1638025512819",
+      "dateSend": "1638025508000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+15015153245",
+      "body": "Sfjjj",
+      "date": "1637994991318",
+      "dateSend": "1637994991000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+15015153245",
+      "body": "EdqDClE03xalBJEj5Q7wJpsNzcl2",
+      "date": "1637994984683",
+      "dateSend": "1637994985000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "How  your  SHOPPING   going",
+      "date": "1637980076031",
+      "dateSend": "1637980074000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "54676",
+      "body": "Straight Talk: Checked your balance lately? Visit My Activity to view your point balance \u0026 see if you qualify for a FREE Service Plan! http://st-w.co/N2Wj965 STOP to End",
+      "date": "1637767084962",
+      "dateSend": "1637767081000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "54676",
+      "body": "Straight Talk: You\u0027ve used all your Hotspot Data. You will have 20GB available on your next refill, or you can refill now at http://st-w.co/qb8KWzK STOP to End",
+      "date": "1637754417997",
+      "dateSend": "1637754416000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "But  I  totally  forgot  ... U  don\u0027t  have  2  Work  ... because  U  had All them  100\u0027s  that day at Buffalo wild wings ",
+      "date": "1637682464543",
+      "dateSend": "1637682463000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Well  Last  night  GUY\u0027S   were  happy  2 -made  $125  \u0026  The  best   Guy  made  $200  in  1  day",
+      "date": "1637680173093",
+      "dateSend": "1637680170000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Have  great   Day  !  Thanks   again  4  Allowing  me   to  Find  (3) other\u0027s  who want  2  Work",
+      "date": "1637612972497",
+      "dateSend": "1637612970000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Now  11am ",
+      "date": "1637599976354",
+      "dateSend": "1637599976000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Well  Guess  U  don\u0027t  need   2  Work  ... Man  because  it\u0027s  10am  ... \u0026  not A  word yet",
+      "date": "1637596828111",
+      "dateSend": "1637596827000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Well  it\u0027s  Monday  ...  MAN  ...  still waiting   to  hear  R  text   letting  me know  if   you   Still  Working  today  ... But  most likely   Your  still  sleeping ",
+      "date": "1637594339165",
+      "dateSend": "1637594334000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13175280524",
+      "body": "[Binance US] Verification code: 624005. Do not share this code with anyone.",
+      "date": "1637578322462",
+      "dateSend": "1637578321000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "K  tomorrow  morning  At  9am",
+      "date": "1637532219482",
+      "dateSend": "1637532218000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "K  you said  tomorrow   MAN  ... remember  LOL",
+      "date": "1637529508418",
+      "dateSend": "1637529507000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Well  guess   I  was  CORRECT   you  R   still  Asleep  \u0026  U  wanted  2  Meet  up  Earlier   ! YEAH  RIGHT ",
+      "date": "1637511133386",
+      "dateSend": "1637511132000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Good morning ",
+      "date": "1637509691510",
+      "dateSend": "1637509690000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "25392",
+      "body": "https://amazon.com/a/c/r/UxKA5KMu1OSn7FXr0udGzZxD5\n\nAmazon: Sign-in from US. Tap link to respond.",
+      "date": "1637488398741",
+      "dateSend": "1637488397000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "25392",
+      "body": "https://amazon.com/a/c/r/o3YBOvrtqri8wsCZA7sWweDZc\n\nAmazon: Sign-in from US. Tap link to respond.",
+      "date": "1637464924587",
+      "dateSend": "1637464923000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "262966",
+      "body": "As you requested, we have successfully changed your Amazon password. Thanks again for shopping with us.",
+      "date": "1637464056047",
+      "dateSend": "1637464055000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "262966",
+      "body": "013630 is your Amazon OTP. Do not share it with anyone.",
+      "date": "1637463998539",
+      "dateSend": "1637463997000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "262966",
+      "body": "921346 is your Amazon OTP. Do not share it with anyone.",
+      "date": "1637463266672",
+      "dateSend": "1637463265000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "262966",
+      "body": "789794 is your Amazon OTP. Do not share it with anyone.",
+      "date": "1637463179661",
+      "dateSend": "1637463177000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "K  Let  put  Another  way  ...  Text  me  tonight   ",
+      "date": "1637461685389",
+      "dateSend": "1637461679000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Text Me  something ",
+      "date": "1637449008403",
+      "dateSend": "1637449006000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "So  R  U  getting  my  Text  ???",
+      "date": "1637448388881",
+      "dateSend": "1637448387000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "I can  Hear  U  fine  \u0026 This  Bluetooth  is   Brand new  less than  3 weeks  old  \u0026  No body  else  has  had any problems   Hearing Me",
+      "date": "1637448320947",
+      "dateSend": "1637448318000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Read  10am  call me  At  10 am",
+      "date": "1637447704306",
+      "dateSend": "1637447702000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Today makes   1 week  that  Have  been  Just  ME ",
+      "date": "1637439981735",
+      "dateSend": "1637439980000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Marco  Tomorrow   if  you   can\u0027t  it\u0027s  OK  until  MONDAY   but  Like  i had  told  U  on  the  Phone  It\u0027s   Seasonal  work  \u0026  i got   Job\u0027s  Schduled   until 1st  week  in  December ",
+      "date": "1637439936122",
+      "dateSend": "1637439931000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Good  Marco  haven\u0027t  heard  from  U  ... so  I am falling   Behind  \u0026  Really   need  some  help  Interested  ...  ",
+      "date": "1637434920110",
+      "dateSend": "1637424956000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Wats up",
+      "date": "1637215589399",
+      "dateSend": "1637209189000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Wats up homie u home I\u0027m outside the fence",
+      "date": "1637215586910",
+      "dateSend": "1637209146000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13252325606",
+      "body": "I just got in town I\u0027ll be by in two min",
+      "date": "1637215580997",
+      "dateSend": "1637208751000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Bro I\u0027m still in lene I\u0027ll be heading back real soon I got u homie",
+      "date": "1637200797166",
+      "dateSend": "1637200796000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13252325606",
+      "body": "I gotta go to Abilene I\u0027ll text you when  I\u0027m back",
+      "date": "1637194447950",
+      "dateSend": "1637194447000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Ok I\u0027ll hit u up when I\u0027m back",
+      "date": "1637192418207",
+      "dateSend": "1637192417000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13256604438",
+      "body": "Oh no it\u0027s way faster than that ",
+      "date": "1637110642525",
+      "dateSend": "1637110643000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13256604438",
+      "body": "Says it\u0027s 19 horsepower lol ",
+      "date": "1637110352250",
+      "dateSend": "1637110353000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13256604438",
+      "body": "It\u0027s 230cc lemme look it up ",
+      "date": "1637110318483",
+      "dateSend": "1637110319000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13256604438",
+      "body": "I didn\u0027t replace the valve it has one on it. It just leaks a little when it\u0027s turned off. It would probably be best for you to come look at it first ",
+      "date": "1637109831398",
+      "dateSend": "1637109832000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13256604438",
+      "body": "No I havnt yet ",
+      "date": "1637036498272",
+      "dateSend": "1637036498000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13256604438",
+      "body": "That was on Amazon ",
+      "date": "1637036413886",
+      "dateSend": "1637036415000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Wake  up  Wake  up",
+      "date": "1636814130886",
+      "dateSend": "1636814129000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "And   my  Dumb ass  Forgot  2  send  the   TEXT  ..  Mr  Chan  what  U  came  out  ON  my  caller  ID",
+      "date": "1636745057027",
+      "dateSend": "1636745056000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Got   A   simple   House   on  Bayhill  He been  with me  OVER  10yrs",
+      "date": "1636744892218",
+      "dateSend": "1636744883000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "US  but  ... U can  Help  ALL  you  want   \u0026  Can  even  set  U  up  with  A  small   job  .  SO   you  can  C   It\u0027s  Not  as  Simple  as  U  THINK ",
+      "date": "1636744813812",
+      "dateSend": "1636744814000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Well  In  ROTAN Tx  got  the  Family  Dollar  has  Hired  ",
+      "date": "1636744681542",
+      "dateSend": "1636744681000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Can  talk the Talk  BUT  cant walk the  walk  !  DON\u0027T   be  Bragging  #1  Lesson  in life  #2  Don\u0027t  show  off ... like  U  were  at the  BAR.",
+      "date": "1636731358522",
+      "dateSend": "1636731358000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "STILL. haven\u0027t   heard  back   Anything   about   U  able  2  do  6 house\u0027s  ????",
+      "date": "1636730992169",
+      "dateSend": "1636730993000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Got  Real  work  !  OUT here  brother   ... Enjoy  ",
+      "date": "1636730953024",
+      "dateSend": "1636730953000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "No Thanks  !",
+      "date": "1636730920745",
+      "dateSend": "1636730920000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Because  they can\u0027t  do  2  SO  proof  it  ! ",
+      "date": "1636730184591",
+      "dateSend": "1636730184000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Oh  by  the way  ...  Mr  i can  work  !  .... When  all the  Light\u0027s   R  done  \u0026  Over  ???   Because   I  told  \u0026  showed  MY  Guy\u0027s   your  TEXT  that you can do  6 house\u0027s  A  day  !  They  said  PROOF IT  ",
+      "date": "1636730134693",
+      "dateSend": "1636730132000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "SO  there  NO  Way  your  Like  ME  !  because  U  can\u0027t   RELAX  until  your  Older  \u0026  Got  2  Save , Save  \u0026  Save  ....  I  Just  got  too  50,000  in my  Savings   \u0026  YOUR   not  the  ONLY   one  who  can  go get  $$$$$  \u0026  Show  off  !  LOL",
+      "date": "1636729969241",
+      "dateSend": "1636729964000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Bet    you   been   Relaxing  !  WE  are  just  now  getting   Home  ",
+      "date": "1636697926076",
+      "dateSend": "1636697925000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "U   Have  way  2  much   TIME  ...  been  out here  working   since  8 30 am  ... AND  ...  it\u0027s  going   2  be  A  late  night ",
+      "date": "1636663055820",
+      "dateSend": "1636663053000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "K  ...  I\u0027M   Getting   Older  \u0026  I am  A  great  Salesman  \u0026  Have  had  this  Business   Over  25yrs ",
+      "date": "1636659451566",
+      "dateSend": "1636659450000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "BUT   wben   U  want   2   BE  more   SERIOUS  let  me  Know   BECAUSE   %  all  depends   ON  how you  want  2  Invest  BECAUSE    right  now  I  OWN  everything  ",
+      "date": "1636652674788",
+      "dateSend": "1636652671000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "I  Can myself  do  only  2  \u0026  Maybe  Start  A  3rd  House  MAX  ",
+      "date": "1636650232252",
+      "dateSend": "1636650231000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "NO  you  CAN\u0027T   because   it\u0027s  A lot more  than  Just  sticking  lights on  A  roof  buddy",
+      "date": "1636648565141",
+      "dateSend": "1636648563000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "About  MAYBE  Selling   %  of  A  Guaranteed   Business   every   year  ... Light\u0027s  ",
+      "date": "1636645441015",
+      "dateSend": "1636645441000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Because  GOT more  jobs  yesterday  \u0026 want  2 talk seriously ",
+      "date": "1636644902951",
+      "dateSend": "1636644902000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": " Good morning  R  U   Available  this morning  ?",
+      "date": "1636644584225",
+      "dateSend": "1636644582000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "What  ?  Don\u0027t  have  all   THE   Time  you have  2  be on the  Phone  ...  I\u0027M   trying   2  get Loaded up ",
+      "date": "1636557749658",
+      "dateSend": "1636557747000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "   WAS   just  Returning  yours   U  call at  7 30 ish  THIS  Morning   but  getting  ready   2  head out  2   Sweetwater ",
+      "date": "1636557218323",
+      "dateSend": "1636557216000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "K  coming  from  Wyile  Storage ",
+      "date": "1636513301668",
+      "dateSend": "1636513299000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Be  There   in  About  30mins ",
+      "date": "1636510523651",
+      "dateSend": "1636510522000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Told  U give me  about  30-45 minutes  \u0026 be  There  HAD  2  make  A  few  Deliveries ",
+      "date": "1636510502170",
+      "dateSend": "1636510500000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+15017869021",
+      "body": "In case you miss your thomas, he\u0027s excelling at art ",
+      "date": "1636412499366",
+      "dateSend": "1636412499000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+15012581419",
+      "body": "The girls play at Burns park at 10:30 and 1:30 on Saturday. Ruthie wanted me to tell you. ",
+      "date": "1636063528591",
+      "dateSend": "1636062431000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+15012581419",
+      "body": "Where did you buy the doggie door you use?",
+      "date": "1636063527718",
+      "dateSend": "1636062215000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "262966",
+      "body": "661323 is your Amazon OTP. Do not share it with anyone.",
+      "date": "1635387647343",
+      "dateSend": "1635352221000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+18702283541",
+      "body": "Now’s the perfect time to jump back into your online degree from ASTATE. Call 866-621-8096 for help. Text STOP to unsubscribe.",
+      "date": "1635193869372",
+      "dateSend": "1635193862000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "54676",
+      "body": "Straight Talk: Checked your balance lately? Visit My Activity to view your point balance %26 see if you qualify for a FREE Service Plan! http://st-w.co/q1jG58r STOP to End",
+      "date": "1635019068320",
+      "dateSend": "1635019062000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Bille has an appointment with Ms. Lindley on 10/22/21 at 3:00 PM. To discuss appt., call 501-940-6135.",
+      "date": "1634842343763",
+      "dateSend": "1634831349000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "262966",
+      "body": "991481 is your Amazon OTP. Do not share it with anyone.",
+      "date": "1634842332188",
+      "dateSend": "1634733120000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+15012584433",
+      "body": "I hear that McDonald\u0027s is giving away free breakfast to educators this week. Just FYI. ",
+      "date": "1634127077639",
+      "dateSend": "1634127075000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+18703537250",
+      "body": "Teeheeheee you\u0027re silly ",
+      "date": "1633903970168",
+      "dateSend": "1633903970000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+18703537250",
+      "body": "But I would suggest that you calm yourself and simply say, \"hey, I think you have the wrong number.\" That would have saved us both the trouble. But by seeing how you cannot spell or use correct spacing, or punctuation, that you must not put a lot of thought and consideration into things. \n",
+      "date": "1633713998335",
+      "dateSend": "1633713995000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+18703537250",
+      "body": "Who the hell is that guy?",
+      "date": "1633710553457",
+      "dateSend": "1633710552000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+15014257626",
+      "body": "Sorry I will delete the number ",
+      "date": "1633709908705",
+      "dateSend": "1633709907000",
+      "read": "1",
+      "service_center": "+19039321436",
+      "type": "1"
+    },
+    {
+      "address": "+15018317686",
+      "body": "Happy birfday seester! I hope you have a great day 😁\nLove you! ",
+      "date": "1633709567027",
+      "dateSend": "1633702834000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Sorry, did not understand response.  Please call the office with appointment concerns.",
+      "date": "1633629769409",
+      "dateSend": "1633629769000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "69877",
+      "body": "UPS:SMS Program You have been unsubscribed and will receive no further SMS msgs from UPS.",
+      "date": "1633629687950",
+      "dateSend": "1633629688000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "82623",
+      "body": "ACLU: You\u0027re unsubscribed and will no longer receive messages.\n\nRemoved by mistake? Reply OOPS to rejoin.",
+      "date": "1633629650344",
+      "dateSend": "1633629650000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "82623",
+      "body": "Redistricting is underway nationwide (so is gerrymandering). Do you know the facts? Test yourself with ACLU\u0027s quiz: http://lil.ms/b0ll/8fbub7 Stop2Quit",
+      "date": "1633533731312",
+      "dateSend": "1633533731000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+15014125483",
+      "body": "Is this Bill?",
+      "date": "1633486206157",
+      "dateSend": "1633476096000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Sorry, did not understand response.  Please call the office with appointment concerns.",
+      "date": "1633470675515",
+      "dateSend": "1633470676000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "69877",
+      "body": "UPS:We had a problem with your request. For general support, visit ups.com/us/en/help-support-center.page. Msg\u0026Data rates may apply.",
+      "date": "1633467729433",
+      "dateSend": "1633467641000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Sorry, did not understand response.  Please call the office with appointment concerns.",
+      "date": "1633467614720",
+      "dateSend": "1633467612000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Sorry, did not understand response.  Please call the office with appointment concerns.",
+      "date": "1633467580739",
+      "dateSend": "1633467575000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "69877",
+      "body": "UPS: Delivered your ROMAN HEALTH package on 10/05/2021 at 3:46 PM. Reply STOP to cancel msgs",
+      "date": "1633467563219",
+      "dateSend": "1633467288000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Bille has an appointment with Ms. Lindley on 10/6/21 at 3:00 PM. To discuss appt., call 501-940-6135.",
+      "date": "1633450102160",
+      "dateSend": "1633450102000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+15014125483",
+      "body": "https://lemonlimeadventures.com/dissolving-candy-pumpkins-halloween-science-kids/",
+      "date": "1633400397267",
+      "dateSend": "1633396809000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+15016801888",
+      "body": "If Liam freaks later about not knowing information on the test, he can be sent to my room just FYI. Cause he def didnt study even with encouragement to",
+      "date": "1633353780075",
+      "dateSend": "1633353779000",
+      "read": "1",
+      "service_center": "+19039321440",
+      "type": "1"
+    },
+    {
+      "address": "+12063395989",
+      "body": "Wyze Verification Code: 409375, valid for 30 minutes.",
+      "date": "1633346938199",
+      "dateSend": "1633346935000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+15016813085",
+      "body": "What are yall planning on bringing to grans",
+      "date": "1633183051770",
+      "dateSend": "1633183052000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+15016813085",
+      "body": "Hello seeester",
+      "date": "1633183034710",
+      "dateSend": "1633183034000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "69877",
+      "body": "UPS: Delivered your PENGUIN RANDOM HOUSE package on 09/28/2021 at 5:17 PM. Reply STOP to cancel msgs",
+      "date": "1632867901705",
+      "dateSend": "1632867895000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "69877",
+      "body": "UPS: Delivered your SHISHAH TIMES package on 09/28/2021 at 5:17 PM. Reply STOP to cancel msgs",
+      "date": "1632867900388",
+      "dateSend": "1632867895000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Bille has an appointment with Ms. Lindley on 9/29/21 at 4:00 PM. To discuss appt., call 501-940-6135.",
+      "date": "1632847086630",
+      "dateSend": "1632845378000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "31778",
+      "body": "Thank you for refilling. Your service end date is :10/27/2021",
+      "date": "1632792868817",
+      "dateSend": "1632792868000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "53747",
+      "body": "Your Home Depot Order H6583-126133 is ready at the Abilene store. Pick up items at the Customer Service Desk.\n\nPlease bring your ID and pick up before 11/05.\n\nReply 12292 to quit.\n\nFor Home Depot Curbside Pickup, enter your your pickup info at https://thdco.cc/3uiS9Bf when you\u0027re on your way to the store.\n\nCurbside Pickup is available 9 am - 6 pm.",
+      "date": "1632773938619",
+      "dateSend": "1632763567000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "899000",
+      "body": "Verizon Msg: Your IPHONE 11 PRO SPACE GRAY 64G VZ ending in 8845 has 10% remaining of its monthly 15 GB Mobile Hotspot allowance. Your hotspot will reset on the 7th.View details m.vzw.com/m/datahub",
+      "date": "1632602982480",
+      "dateSend": "1632602978000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+15014421640",
+      "body": "I\u0027m sorry. My mistake. ",
+      "date": "1632529100525",
+      "dateSend": "1632529098000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "69877",
+      "body": "UPS: Delivered your CARGO COVE FULFILLMENT package on 09/23/2021 at 3:12 PM. Reply STOP to cancel msgs",
+      "date": "1632431077995",
+      "dateSend": "1632431077000",
+      "read": "1",
+      "service_center": "+19039321435",
+      "type": "1"
+    },
+    {
+      "address": "69877",
+      "body": "UPS: Delivered your BLUELAND package on 09/22/2021 at 2:46 PM. Reply STOP to cancel msgs",
+      "date": "1632342498503",
+      "dateSend": "1632342497000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+15014421640",
+      "body": "Everything is fine. I am just in a Space Camp planning meeting and we had a question for you and needed your permission before we go much further. 😬",
+      "date": "1632270891710",
+      "dateSend": "1632270887000",
+      "read": "1",
+      "service_center": "+19039321442",
+      "type": "1"
+    },
+    {
+      "address": "+15014421640",
+      "body": "Ms. Chan, this is Tracy, Miles’s Mom. Do you have a minute? ",
+      "date": "1632270749757",
+      "dateSend": "1632270748000",
+      "read": "1",
+      "service_center": "+19039321444",
+      "type": "1"
+    },
+    {
+      "address": "+18703537250",
+      "body": "Have you ever watched the original wicker man?",
+      "date": "1632230738279",
+      "dateSend": "1632230737000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "+17752339529",
+      "body": "Do you know where adia Lawrence is right now? ",
+      "date": "1632160390495",
+      "dateSend": "1632160390000",
+      "read": "1",
+      "service_center": "+19039321445",
+      "type": "1"
+    },
+    {
+      "address": "82623",
+      "body": "ACLU ALERT: A bill that can protect abortion care will be up for a vote in the House. It\u0027s crucial it passes. Take action: http://lil.ms/aruv/8fbub7 \n\nStop2Quit",
+      "date": "1632158043249",
+      "dateSend": "1632158038000",
+      "read": "1",
+      "service_center": "+19039321437",
+      "type": "1"
+    },
+    {
+      "address": "#CMAS#Amber",
+      "body": "AMBER Alert issued for Alheirie Michelle Rodriguez Pomales 12 y/o H/F from Converse, TX",
+      "date": "1631994076461",
+      "dateSend": "0",
+      "read": "1",
+      "type": "1"
+    },
+    {
+      "address": "+15012581419",
+      "body": "The girls wanted you to know that they play the bluebirds at 1:30 tomorrow. ",
+      "date": "1631987743013",
+      "dateSend": "1631984293000",
+      "read": "1",
+      "service_center": "+19039321443",
+      "type": "1"
+    },
+    {
+      "address": "+13256608128",
+      "body": "I\u0027m just curious, i think somebody gave me this number",
+      "date": "1647020190000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256608128",
+      "body": "Do you know or have met a Marco ?",
+      "date": "1647019947000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3256608128",
+      "body": "Hello is this Evelyn ",
+      "date": "1646507788000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+16822979011",
+      "body": "The one that gave me the insurance policy?",
+      "date": "1645895802000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "22000",
+      "body": "Ok",
+      "date": "1645829105000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "611611",
+      "body": "141141431698497",
+      "date": "1645812297000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "611611",
+      "body": "1",
+      "date": "1645812264000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "611611",
+      "body": "ADD",
+      "date": "1645812253000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "244444",
+      "body": "(Dt5e3clXVR0s) Google is verifying the phone# of this device as part of setup. Learn more: https://goo.gl/LHCS9W",
+      "date": "1644028012479",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+18667536355",
+      "body": "BAL",
+      "date": "1643005228333",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+18667536355",
+      "body": "Help",
+      "date": "1643005175285",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "611611",
+      "body": "Try Grammarly. Ikant spll either ",
+      "date": "1642622441000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "611611",
+      "body": "No . is there A fukking Problem ? Cut The Shit Of if you want To for all I give a fuck",
+      "date": "1642622199000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "54676",
+      "body": "No . is there A fukking Problem ? Cut The Shit Of if you want To for all I give a fuck",
+      "date": "1642622144000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "54676",
+      "body": "No . is there A fukking Problem ? Cut The Shit Of if you want To for all I give a fuck",
+      "date": "1642622121000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+18667536355",
+      "body": "Balance ",
+      "date": "1642022757000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "611611",
+      "body": "714621448430633",
+      "date": "1641922339000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "611611",
+      "body": "1",
+      "date": "1641922138000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "611611",
+      "body": "Refill",
+      "date": "1641922106000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Kool ",
+      "date": "1640124495000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "So you don\u0027t live in anson no more ?",
+      "date": "1640121177000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Say I\u0027m about to call it a night don\u0027t worry about it ",
+      "date": "1640074244000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252010446",
+      "body": "I just tried calling you ",
+      "date": "1640073656000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "13252010446",
+      "body": "Ican come to were you at if you can\u0027t.  I\u0027m up and about right now ",
+      "date": "1640072823000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Yea",
+      "date": "1640071501000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "I can\u0027t ",
+      "date": "1640071473000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Hold up I\u0027m about to leave ",
+      "date": "1640068084000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Oh that\u0027s good . I\u0027ve been there before . Long time ago . To the lake",
+      "date": "1640068005000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "June",
+      "date": "1640067198000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "I  live at 332 Ave J .The property I told you I bought earlier this year back in May ",
+      "date": "1640067193000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Here in anson ",
+      "date": "1640067136000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "I\u0027m about too , go to the store",
+      "date": "1640067102000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "It\u0027s going OK,  imma but to cook some late nigh dinner . I\u0027m starving ",
+      "date": "1640067033000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Yea . Was Guccii",
+      "date": "1640066917000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Sorry babe , went to sleep watching movies . Wryd love",
+      "date": "1640066900000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Igotta stop by store \u0026 get some bread myself Playboy.  I\u0027m already posted for the night",
+      "date": "1639975442000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Wryd sleeping beauty ",
+      "date": "1639975237000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "If not now just whenever . No rush ",
+      "date": "1639975197000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Not right now bro , go ahead \u0026 keep , come up. Just A portion of Product bro ",
+      "date": "1639975126000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "What side of town you stay on ? I stay here by The Spring Market . I bought some property out here this year. Moved here from Little Rock,  Arkansas ",
+      "date": "1639974986000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "A portion . It\u0027s OK though . Don\u0027t worry about . I\u0027m  not sure if I\u0027ll be able to come thru for you anytime soon , sorry",
+      "date": "1639974825000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "You never came thru after reup",
+      "date": "1639974688000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Not right now ",
+      "date": "1639974638000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "A slumber party with you🤣",
+      "date": "1639973306000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Ok",
+      "date": "1639973235000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "The other day bro",
+      "date": "1639973175000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Chilling at home , wryd",
+      "date": "1639973119000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Wryd beauty",
+      "date": "1639938547000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "The Latino in anson area profile also ",
+      "date": "1639938457000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13463331388",
+      "body": "Marco from Fb Dating Profile",
+      "date": "1639938041000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252010446",
+      "body": "At home fxnna ride around on my motorcycle ",
+      "date": "1639937988000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252010446",
+      "body": "👍",
+      "date": "1639931393000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3463331388",
+      "body": "Is this priscilla ",
+      "date": "1639931344000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252010446",
+      "body": "You got change for 100?",
+      "date": "1639865886000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252010446",
+      "body": "Yea hold on bro , I\u0027m cleaning some trash",
+      "date": "1639863995000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+19034585743",
+      "body": "I\u0027m not fukkinn playing. You bitch muddafukkas think is funny now ..",
+      "date": "1639720574000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+19034585743",
+      "body": "Don\u0027t Get Shot or macheted Up , trynna sneak around here like you a ninja or villain ",
+      "date": "1639720034000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+19034585743",
+      "body": "Stay Out My Property !!! \u0026 Fukk Yall ",
+      "date": "1639719894000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+19034585743",
+      "body": "If yall get hurt coming out here don\u0027t  say I didn\u0027t warn yall ",
+      "date": "1639719577000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+19034585743",
+      "body": "The Police Officers here in Anson Already know me . So don\u0027t b calling The police out here making up stories You 2phased bitches",
+      "date": "1639719466000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Was Supp Ricky.  I just got to your message",
+      "date": "1639719178000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+19034585743",
+      "body": "Shut The Fukk Up. Yall better Not come around My Property either . ",
+      "date": "1639719047000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Yea",
+      "date": "1639473474000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Don\u0027t worry about it ",
+      "date": "1639473382000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3257215675",
+      "body": "You get my message ",
+      "date": "1639472370000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13257215675",
+      "body": "Igotta Get all the material ineed first ",
+      "date": "1639471484000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Wryd love",
+      "date": "1639392463000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Stop",
+      "date": "1639392357000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+15015173484",
+      "body": "Yea This is Marco ",
+      "date": "1639330617000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5015173484",
+      "body": "Who is this ?",
+      "date": "1639329730000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Supp amorcito ",
+      "date": "1639329688000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3256699797",
+      "body": "Hi Grandma.  This is Marco ,\nWe\u0027re is My Grremlin ?",
+      "date": "1639328991000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Hey love",
+      "date": "1639240000000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Que haces Hermosura Mia ",
+      "date": "1639109667000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "13252325606",
+      "body": "Was supp playboy",
+      "date": "1639109625000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Wryd love ",
+      "date": "1639098533000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Was supp , are you home ? ",
+      "date": "1639098521000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Ok",
+      "date": "1639016500000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "iwant you to be mine this christmas",
+      "date": "1639016443000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Wake up beauty",
+      "date": "1638985107000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Doing what",
+      "date": "1638985081000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Chilli if you ask me",
+      "date": "1638976350000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Wrong number ",
+      "date": "1638976233000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Good Morning Love",
+      "date": "1638976191000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": " Supp Big Dog",
+      "date": "1638976173000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Say bro , you up ?",
+      "date": "1638878499000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Finna head your way",
+      "date": "1638838432000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "My full name is Marco Antonio Rivera",
+      "date": "1638835951000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Already ",
+      "date": "1638835911000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "13252325606",
+      "body": "Ay wass supp playboy",
+      "date": "1638835838000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Wryd love",
+      "date": "1638835717000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "How about a date sometime ?",
+      "date": "1638823939000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Good morning love. xoxo",
+      "date": "1638803211000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+15014564895",
+      "body": "Wo the fuck is this ",
+      "date": "1638803165000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Have you wrote santa yet? What\u0027s on your wish list in case he doesn\u0027t make it to abilene",
+      "date": "1638737128000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Goodmorning Love , hope your having a great sunday",
+      "date": "1638735781000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "What time",
+      "date": "1638681881000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Yes Love .I\u0027m back in Anson",
+      "date": "1638681510000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "I just left academy they don\u0027t got the gear I\u0027m wanting ",
+      "date": "1638672339000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Hey I\u0027m in town , I\u0027m about to grab some dinner,  have ate yet? ican get you something before ihead back to anson  ",
+      "date": "1638671991000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "I called you ",
+      "date": "1638658336000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Were or what are seeking for in Fb Dating ? 🤣 friendships or relationships,  just curious cause imma flirt with you",
+      "date": "1638653682000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "🤣",
+      "date": "1638650118000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Imma write santa Claus this weekend  , add you to my want list",
+      "date": "1638650058000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Fine Spanish Breezy . You made any plans yet ? ",
+      "date": "1638649954000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "I tried to get a selfie from fb for your contact pic info , fb service is not allowing it for some odd technical issue",
+      "date": "1638645752000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "13258997641",
+      "body": "Wryd love , you gott any hobbies ? ",
+      "date": "1638645285000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258997641",
+      "body": "Send me some selfies . iwant to set one for your contact info.\nxoxo beautiful ",
+      "date": "1638633708000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258997641",
+      "body": "Good Morning Latin beauty . \nWryd sleeping beauty , wake up ",
+      "date": "1638633383000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256274249",
+      "body": "OK.  Thank you",
+      "date": "1638495769000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3256274249",
+      "body": "I should invest in a Truck Eventually ",
+      "date": "1638490527000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3256274249",
+      "body": "332 Ave J , Anson Texas .\n",
+      "date": "1638490454000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3253704146",
+      "body": "332 Ave J  , Anson Texas -Marco Rivera",
+      "date": "1638467680000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5015153245",
+      "body": "Sfjjj",
+      "date": "1637994990000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5015153245",
+      "body": "EdqDClE03xalBJEj5Q7wJpsNzcl2",
+      "date": "1637994984000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "13252325606",
+      "body": "Was supp bro , you on ? ",
+      "date": "1637898861000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Monday . It\u0027s Sunday man",
+      "date": "1637522808000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Yea , start Monday or ?",
+      "date": "1637435175000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "I\u0027m up front your house",
+      "date": "1637216875000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "I\u0027m in a Grey Gmc ",
+      "date": "1637215737000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "I\u0027m finna head your way . I\u0027ve been waiting for a min , my fone ran out of juice",
+      "date": "1637215712000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "OK.  Just let me know if I need to meet you half way or something ",
+      "date": "1637201640000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Hello was supp on that",
+      "date": "1637198461000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "You got a boost out there or what ? ",
+      "date": "1637194673000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "How much longer ? You want me to come meet you somewhere ?",
+      "date": "1637194309000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13252325606",
+      "body": "Ok",
+      "date": "1637192971000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3252325606",
+      "body": "Jose this is Marco . I just left your house . This is My number ",
+      "date": "1637192277000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256604438",
+      "body": "Bout 20 miles per hour ?",
+      "date": "1637110390000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256604438",
+      "body": "What\u0027s the approximate hp ? ",
+      "date": "1637110268000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256604438",
+      "body": "332 Ave J . Anson,Texas 79501",
+      "date": "1637109678000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256604438",
+      "body": "What you replace the valve with ?",
+      "date": "1637109644000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256604438",
+      "body": "You want to come to my place ?\n, it won\u0027t fit in my suv terrain",
+      "date": "1637109628000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256604438",
+      "body": "Oh you already ordered it , I that on the top left?",
+      "date": "1637036464000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13256604438",
+      "body": "Yea iknow",
+      "date": "1637036432000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3256604438",
+      "body": "Which store in abilene has it .",
+      "date": "1637036399000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Tuesday was just a day I decided to be at your Destination \u0026 Say Hello , You haven\u0027t aged a bit biG DoG . I was Gone For like 5 years",
+      "date": "1636659276000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Ihave a conference Meeting with the\n\n World Intellectual Property Organization in Geneva Switzerland ",
+      "date": "1636659083000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Alot of Software Data are under My Licensed  Authority Certificate Policy Terms . It\u0027s causing A Dilemma in The Virtual World\n",
+      "date": "1636658929000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Let me get some of this Court Dates with Some of this Software Franchise Corporations Out The Way \u0026 I\u0027ll Call You . There\u0027s international issues \u0026 interest in My Revised Software Version  UpDates .\n",
+      "date": "1636658653000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "You\u0027re The Senior Version of Me 🤣 You remind me of me ",
+      "date": "1636658074000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Yea",
+      "date": "1636649612000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Ican probably do 4 to 6 Six Houses in one day by myself if the Jobs get done my way. I don\u0027t want your employees Telling me what To Do . I could use some extra holiday money as well. I\u0027m sure you could to ",
+      "date": "1636648395000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Before I get on any roofs . Iwant to let you know I want to Do the Jobs my way . If I do . First thing is Glue Gun all major extension connections To Buildings up To The Gutter Lines . That way when I do all all The Wiring up top all The Power outlets Running Down To Main Power Source line \u0026 Timers Just Have To Be Taped Up . In another words iwant To Avoid up down up down up down up down unorganized shuffled redo jobs ",
+      "date": "1636647912000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+13258292251",
+      "body": "Idont want to buy your business but I\u0027m willing to work with you . ",
+      "date": "1636647387000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3258292251",
+      "body": "Hello ? I received a phone call while on the phone with a business.  ",
+      "date": "1636556759000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "13258292251",
+      "body": "I\u0027m On A Grey GMC Terrain . See You Shortly BigDoG",
+      "date": "1636510626000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "13258292251",
+      "body": "I\u0027m here at Buffalo wild wings , I\u0027m inviting myself to Your Destination 🤣",
+      "date": "1636510535000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "3256689328",
+      "body": "Is this A \u0026 R Handyman? I spoke with yall about a week ago about getting my electrical current service here at 332 Ave J Anson Texas",
+      "date": "1635783418000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "9795759032",
+      "body": "🤣",
+      "date": "1635305977000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+18703537250",
+      "body": "Fukk you , I\u0027m not gonna repeat myself bitch ",
+      "date": "1633720858000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+18703537250",
+      "body": "This is my fukkinn number \u0026 isaid stop fukkinn texting my phone. That\u0027s who the fukk I am ",
+      "date": "1633710821000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+15018317686",
+      "body": "Wrong number.stop texting my phone",
+      "date": "1633709840000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5016813085",
+      "body": "Wrong number.stop texting my phone",
+      "date": "1633709826000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5014257626",
+      "body": "Wrong number.stop texting my phone",
+      "date": "1633709813000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5014257626",
+      "body": "Wrong number.stop texting my phone",
+      "date": "1633709696000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5016813085",
+      "body": "Wrong number.stop texting my phone",
+      "date": "1633709684000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+15018317686",
+      "body": "Wrong number.stop texting my phone",
+      "date": "1633709664000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5016813085",
+      "body": "Stop texting my phone",
+      "date": "1633709637000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "5016813085",
+      "body": "Wrong number",
+      "date": "1633709628000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+12705600727",
+      "body": "This is not billies number, you\u0027re texting the wrong person",
+      "date": "1633629768000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "69877",
+      "body": "Stop",
+      "date": "1633629683000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "82623",
+      "body": "Stop",
+      "date": "1633629649000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+15014125483",
+      "body": "No",
+      "date": "1633486230000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+15016801888",
+      "body": "Wrong number. I don\u0027t know who you are",
+      "date": "1633470694000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+15014125483",
+      "body": "Wrong number. I don\u0027t know who you are",
+      "date": "1633470681000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Wrong number. I don\u0027t know who you are",
+      "date": "1633470674000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "69877",
+      "body": "Wrong number",
+      "date": "1633467638000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+12705600727",
+      "body": "Wrong number ",
+      "date": "1633467574000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+17752339529",
+      "body": "You have the wrong number",
+      "date": "1632526550000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    },
+    {
+      "address": "+15014421640",
+      "body": "This is not Mrs Chan.  This is Marco Rivera ",
+      "date": "1632526527000",
+      "dateSend": "0",
+      "read": "1",
+      "type": "2"
+    }
+  ]
+}
